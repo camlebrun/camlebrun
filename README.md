@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  Hello, I'm Camille, a dedicated advocate for ethical Data Analysis & AI, promoting human-centric data practices and responsible technology. My journey involves exploring the intersections of data, artificial intelligence, and biochemistry.
+  Hello, I'm Camille, a dedicated advocate for ethical Data Analysis & AI, promoting human-centric data practices and responsible technology. My journey involves exploring the intersections of data analysis and artificial intelligence (sometimes biochemistry).
   
   </p>
 
