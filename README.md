@@ -6,20 +6,15 @@
 </h2>
 
 <p align="center">
-  
-  Hello, I'm Camille, a dedicated advocate for ethical Data Analysis & AI, promoting human-centric data practices and responsible technology. My journey involves exploring the intersections of data analysis and artificial intelligence (sometimes biochemistry).
-  
-  </p>
+   Hello, I'm Camille, a dedicated advocate for ethical Data Analysis & AI, promoting human-centric data practices and responsible technology. My journey involves exploring the intersections of data analysis and artificial intelligence (sometimes biochemistry). <br> I believe in the importance of code quality and have recently deleted some repositories that no longer met my standards.
+</p>
 
 <h2 align="center">
-  
-🔍 [Explore my school projects at HETIC](https://github.com/projet-md5-lebrun) <br>
-🌐 [Visit my portfolio for more information](https://camlebrun.github.io)
-   
+  🔍 [Explore my remaining school projects at HETIC](https://github.com/projet-md5-lebrun) <br>
+  🌐 [Visit my portfolio for more information](https://camlebrun.github.io)
 </h2>
 
 <h5 align="center">
   🌈 AI for common good | Proudly identifying as non-binary 🏳️‍⚧️<br>
-#LGBTQIA+ | #DiversityInTech | #TransInTech
+  #LGBTQIA+ | #DiversityInTech | #TransInTech | #CodeQuality
 </h5>
-
