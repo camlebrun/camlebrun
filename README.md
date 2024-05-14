@@ -10,8 +10,9 @@
 </p>
 
 <h2 align="center">
-  🔍 [Explore my remaining school projects at HETIC](https://github.com/projet-md5-lebrun) <br>
-  🌐 [Visit my portfolio for more information](https://camlebrun.github.io)
+    🔍 <a href="https://github.com/projet-md5-lebrun">Explore my remaining school projects at HETIC </a></p>
+    🌐 <a href="https://camlebrun.github.io">Visit my portfolio for more information</a></p>
+
 </h2>
 
 <h5 align="center">
