@@ -1,23 +1,29 @@
-Camille Lebrun | Analytics Engineer
+# 👋 Hello, I’m Camille Lebrun
 
-Hello! I’m Camille Lebrun, an Analytics Engineer dedicated to transforming raw data into scalable and efficient data models. With two years of experience in data modeling and ensuring data quality, I’ve developed strong expertise in dbt and SQL, complemented by Python for data science tasks, including natural language processing (NLP) and AI-driven models.
+## Transforming Data Into Clarity and Impact
 
-**Skills and Expertise**
+Welcome to my GitHub! I’m an **Analytics Engineer** passionate about creating scalable data solutions that drive decision-making. With expertise in **dbt**, **SQL**, **Python**, and modern data stacks, I specialize in turning raw data into actionable insights through efficient models, optimized workflows, and meaningful visualizations.
 
-I leverage modern data stacks, including Google BigQuery, Snowflake, dbt, and Metabase, to deliver end-to-end solutions and automate processes. Using tools like Tableau and Power BI, I create interactive dashboards that empower data-driven decision-making.
+## 🌟 What You’ll Find Here
 
-**My Path and Goals**
+This GitHub is a growing portfolio where I showcase projects that reflect my journey as an Analytics Engineer:  
+- **Data Modeling**: Leveraging **dbt**, **BigQuery**, and **Snowflake** to design efficient, scalable models.  
+- **SQL Excellence**: Writing clean, optimized queries that unlock the value of complex datasets.  
+- **Data Visualization**: Creating impactful dashboards with tools like **Metabase** and **Tableau** to inspire action.  
+- **Python for Automation**: Utilizing **Pandas** and other Python libraries to streamline workflows and build tailored data solutions.
 
-While my GitHub doesn’t yet fully showcase my capabilities as an Analytics Engineer, I’m actively working on projects that will reflect my skills. My goal is to soon share these projects, providing a concrete glimpse of my expertise in modern data engineering and analytics.
+## ⚡ What’s Next
 
-**Inclusion and Diversity**
-As a non-binary professional, I am committed to promoting diversity, equity, and inclusion in tech. I believe that innovation thrives through diverse perspectives.
+I’m currently working on **new projects** to expand and refine this portfolio:  
+- **End-to-end workflows** that demonstrate data processing and analytics pipelines.  
+- **Visualization projects** focused on transforming insights into actionable stories.
 
-<h2 align="center">
-    🔍 <a href="https://github.com/projet-md5-lebrun">Explore my HETIC school projects</a> | 🌐 <a href="https://camlebrun.github.io">Visit my portfolio</a> |
-    📝 <a href="https://medium.com/@camille.lebrun">Medium</a> | 💼 <a href="https://www.linkedin.com/in/camille-lebrun-ai/">LinkedIn</a>
-</h2>
-<h5 align="center">
-  🌈 AI for the common good | Proudly non-binary 🏳️‍⚧️<br>
-  #LGBTQIA+ | #DiversityInTech | #TransInTech | #CodeQuality
-</h5>
+These upcoming contributions will better reflect my expertise and focus as an Analytics Engineer.
+
+## 🚨 Disclaimer
+
+This GitHub is a **work in progress!** I’ve recently removed certain projects to better align with my professional positioning and ensure the quality of my portfolio. I’m actively working on new projects that will more accurately showcase my skills as an Analytics Engineer.
+
+## 🌈 About Me
+
+As a **non-binary professional**, I am dedicated to fostering inclusive and diverse spaces in tech. I believe data can drive equity and representation, and I’m committed to using my skills to support meaningful change.
