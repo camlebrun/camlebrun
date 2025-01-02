@@ -1,29 +1,31 @@
-# 👋 Hello, I’m Camille Lebrun
+## 👋 Hello, I’m Camille Lebrun
 
-## Transforming Data Into Clarity and Impact
+**Transforming data into actionable insights**
 
-Welcome to my GitHub! I’m an **Analytics Engineer** passionate about creating scalable data solutions that drive decision-making. With expertise in **dbt**, **SQL**, **Python**, and modern data stacks, I specialize in turning raw data into actionable insights through efficient models, optimized workflows, and meaningful visualizations.
+Welcome to my GitHub! I’m an Analytics Engineer passionate about crafting scalable data solutions that empower data-driven decisions. With expertise in dbt, SQL, Python, and the modern data stack, I specialize in transforming complex datasets into actionable insights through efficient models, automated workflows, and impactful visualizations.
 
-## 🌟 What You’ll Find Here
+### 🌟 What You’ll discover here
 
-This GitHub is a growing portfolio where I showcase projects that reflect my journey as an Analytics Engineer:  
-- **Data Modeling**: Leveraging **dbt**, **BigQuery**, and **Snowflake** to design efficient, scalable models.  
-- **SQL Excellence**: Writing clean, optimized queries that unlock the value of complex datasets.  
-- **Data Visualization**: Creating impactful dashboards with tools like **Metabase** and **Tableau** to inspire action.  
-- **Python for Automation**: Utilizing **Pandas** and other Python libraries to streamline workflows and build tailored data solutions.
+This GitHub serves as a growing portfolio showcasing my journey as an Analytics Engineer, featuring:
+- Data modeling: Designing scalable, efficient models with tools like dbt, BigQuery, and Snowflake. <br>
+- SQL mastery: Writing optimized, clean queries to extract insights from complex datasets. <br>
+- Data visualization: Developing dashboards with tools like Metabase, Tableau, and Looker Studio that inform and inspire action. <br>
+- Python for automation: Building custom solutions and streamlining workflows using Pandas and other libraries. <br>
 
-## ⚡ What’s Next
+### ⚡ Current and upcoming projects
 
-I’m currently working on **new projects** to expand and refine this portfolio:  
-- **End-to-end workflows** that demonstrate data processing and analytics pipelines.  
-- **Visualization projects** focused on transforming insights into actionable stories.
+I’m actively expanding this portfolio with new projects that reflect my expertise:
+- 	End-to-End workflows: Showcasing complete data pipelines, from extraction to analysis. <br>
+- 	Advanced visualizations: Telling impactful data stories through interactive dashboards and reports. <br>
 
-These upcoming contributions will better reflect my expertise and focus as an Analytics Engineer.
+These projects will offer deeper insights into my technical skill set and problem-solving approach.
 
-## 🚨 Disclaimer
+### 🚨 Disclaimer
 
-This GitHub is a **work in progress!** I’ve recently removed certain projects to better align with my professional positioning and ensure the quality of my portfolio. I’m actively working on new projects that will more accurately showcase my skills as an Analytics Engineer.
+This GitHub is a work in progress! I’ve recently refined my portfolio to better align with my professional focus and ensure it reflects the quality of my work. Stay tuned as I add more impactful projects.
 
-## 🌈 About Me
+### 🌈 About me
 
-As a **non-binary professional**, I am dedicated to fostering inclusive and diverse spaces in tech. I believe data can drive equity and representation, and I’m committed to using my skills to support meaningful change.
+As a non-binary professional, I am committed to fostering inclusivity and diversity in the tech community. I believe in using data to drive equity and representation, and I’m passionate about creating solutions that support meaningful change.
+
+This version is professional, approachable, and highlights
