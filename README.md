@@ -27,13 +27,12 @@ I have hands-on experience across the modern data stack, from cloud data warehou
 ![Observability](https://img.shields.io/badge/Observability-FF6B6B?style=flat-square&logo=datadog&logoColor=white)
 ![Stakeholder Enablement](https://img.shields.io/badge/Stakeholder%20Enablement-00D9FF?style=flat-square&logo=slack&logoColor=white)
 
-As a **non-binary professional**, I am committed to fostering inclusivity and diversity in the tech community. I believe in using data to drive equity and representation, and I'm passionate about creating solutions that support meaningful change.
 
 ---
 
 ### 💼 Experience
 
-**Analytics Engineer** @ Hanalytics (Jan 2024 - Present)
+**Analytics Engineer** @ Hanalytics (Jan 2025 - Dec 2025)
 - Building scalable data solutions with dbt, BigQuery, Kestra, and Airbyte
 - Developed Slack-based monitoring system reducing data quality issue detection by **90%+**
 - Delivered data solutions for **3+ industries** (retail, e-commerce, media) with automated e-commerce tracking
@@ -71,7 +70,7 @@ As a **non-binary professional**, I am committed to fostering inclusivity and di
 
 ## 🚀 Featured Projects
 
-> 💡 **Want to see more projects?** Check out my full portfolio with detailed case studies: [camlebrun.github.io](https://camlebrun.github.io)
+> 💡 **Want to see more projects?** Check out my full portfolio with detailed case studies: [camillelebrun.fr](https://camillelebrun.fr)
 
 ### Automated Tech Watch System
 
@@ -117,7 +116,7 @@ This GitHub is a work in progress! I've recently refined my portfolio to better 
 
 ### 🔗 Connect
 
-- **Portfolio:** [camlebrun.github.io](https://camlebrun.github.io)
+- **Portfolio:** [camillelebrun.fr](https://camillelebrun.fr)
 - **LinkedIn:** [camille-lebrun-ai](https://www.linkedin.com/in/camille-lebrun-ai/)
 - **Medium:** [@camille.lebrun](https://medium.com/@camille.lebrun)
 
