@@ -117,7 +117,7 @@ This GitHub is a work in progress! I've recently refined my portfolio to better 
 ### 🔗 Connect
 
 - **Portfolio:** [camillelebrun.fr](https://camillelebrun.fr)
-- **LinkedIn:** [camille-lebrun-ai](https://www.linkedin.com/in/camille-lebrun-ai/)
+- **LinkedIn:** [camille-lebrun-ae](https://www.linkedin.com/in/camille-lebrun-ae/)
 - **Medium:** [@camille.lebrun](https://medium.com/@camille.lebrun)
 
 ---
